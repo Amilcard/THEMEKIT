@@ -1,0 +1,39 @@
+.gitignore
+eslint.config.mjs
+next-env.d.ts
+next.config.ts
+package.json
+postcss.config.mjs
+README.md
+tsconfig.json
+.next/
+  app-build-manifest.json
+  build-manifest.json
+  package.json
+  react-loadable-manifest.json
+  trace
+  cache/
+    .rscinfo
+    swc/
+    webpack/
+  server/
+    app-paths-manifest.json
+    interception-route-rewrite-manifest.js
+    ...
+  static/
+    chunks/
+    css/
+    ...
+types/
+app/
+  favicon.ico
+  globals.css
+  layout.tsx
+  page.tsx
+  Home/
+public/
+  file.svg
+  globe.svg
+  next.svg
+  vercel.svg
+  window.svg
